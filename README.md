@@ -2,6 +2,8 @@
 
 It is a python script that sends WhatsApp messages automatically from the WhatsApp web application with documents like pdf, images, video, etc.
 
+## Contact me over Telegram: https://t.me/inforkgodara
+
 ## Important Note
 * This repo is only for the educational purpose not meant for commercial uses.
 
